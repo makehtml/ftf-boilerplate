@@ -1,5 +1,7 @@
 # Flask, Tailwind и Flowbite
 
+[Посмотреть демо](https://makehtml.github.io/ftf-boilerplate)
+
 Заготовка для создания сайта с помощью backend-фреймворка [Flask](https://flask.palletsprojects.com/) (Python), frontend-фреймворка [Tailwind](https://tailwindcss.com/) и библиотекой готовых компонентов [Flowbite](https://flowbite.com/)
 
 > [!NOTE]
